@@ -33,5 +33,9 @@ __Procedure__:
 7 — Demodulate each isolated channel (coherent) and low-pass filter to recover baseband
 
 __Output_:
+<img width="759" height="786" alt="image" src="https://github.com/user-attachments/assets/9eda3af7-29da-4fd6-adbb-c44c8b4306a3" />
+<img width="753" height="695" alt="image" src="https://github.com/user-attachments/assets/9efd757f-b524-42d0-b46e-3a9dfa6c4bed" />
+<img width="758" height="697" alt="image" src="https://github.com/user-attachments/assets/7b26cd00-a62e-442e-b13e-44f1732c3528" />
 
 __Result__:
+Thus the frequency division multiplexing technique was successfully implemented using SCILAB.
